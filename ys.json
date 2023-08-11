@@ -65,7 +65,8 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
             "name": "二哈"
         },
-        {            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
             "name": "PG one"
         },
         {

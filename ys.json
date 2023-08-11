@@ -65,6 +65,16 @@
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
             "name": "二哈"
         },
+        {            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "name": "PG one"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "运输车"        }
         {
             "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
             "name": "高天18🈲"

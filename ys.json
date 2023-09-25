@@ -18,6 +18,10 @@
             "name": "肥猫"
         },
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.json",
+            "name": "CandyMuj"
+        },
+        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
             "name": "蜂蜜"
         },

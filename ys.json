@@ -1,0 +1,45 @@
+{
+    "urls": 
+    [
+        {
+            "url": "http://饭太硬.top/tv",
+            "name": "饭总"
+        },
+        {
+            "url": "http://肥猫.live",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0822.json",
+            "name": "弹幕"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/dxawi/0/main/0.json",
+            "name": "骚零"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0821.json",
+            "name": "高天"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+            "name": "PG one"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "菜尼丝XBPQ"
+        },
+        {
+            "url": "http://xhww.fun/小米/DEMO.json",
+            "name": "小米"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "多多"
+        },
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json",
+            "name": "二哈"
+        }
+    ]
+}

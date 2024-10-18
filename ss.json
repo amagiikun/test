@@ -1,20 +1,16 @@
 {
     "urls": [
         {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json",
-            "name": "小武哥"
-        },
-        {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json",
-            "name": "CandyMuj"
-        },
-        {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
-            "name": "二哈s"
-        },
-        {
             "url": "https://dalao168.top/TVBOX-main/0914-only-sex.json",
             "name": "老王资源"
+        },
+        {
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-only-sex.json",
+            "name": "0914"
+        },
+        {
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/guot55/yg/main/pro.json",
+            "name": "yg"
         },
         {
             "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json",
@@ -41,12 +37,20 @@
             "name": "akun"
         },
         {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/zhoujck/config/master/test",
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/zhoujck/config/main/test",
             "name": "155网盘"
         },
         {
-            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/newrecha/TVBOX/main/0914-only-sex.json",
-            "name": "0914"
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json",
+            "name": "小武哥"
+        },
+        {
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj18.json",
+            "name": "CandyMuj"
+        },
+        {
+            "url": "https://gh.xxooo.cf/https://raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+            "name": "二哈s"
         }
     ]
 }
